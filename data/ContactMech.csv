@@ -1,0 +1,11 @@
+mantle.party.contact.ContactMech,demo
+contactMechId,contactMechTypeEnumId,infoString
+CM1001,CmtTelecomNumber,+91-9876543210
+CM1002,CmtEmailAddress,shreya.singh@gmail.com
+CM1003,CmtPostalAddress,123 Main St
+CM1004,CmtEmailAddress,ananya.singh@gmail.com
+CM1005,CmtPostalAddress,Vijay Nagar
+CM1006,CmtTelecomNumber,8848149049
+CM1007,CmtPostalAddress,207 payal vatika
+CM1008,CmtEmailAddress,gungun.singh@gmail.com
+CM1009,CmtPostalAddress, Malhar Mega Mall

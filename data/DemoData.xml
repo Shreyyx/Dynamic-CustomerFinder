@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<entity-facade-xml>
-    <tutorial.MoquiTraining trainingId="10005" trainingName="C++ Programming Basics" trainingDate="2024-02-12" trainingPrice="569.99" trainingDuration="6" />
-    <tutorial.MoquiTraining trainingId="10006" trainingName="Moqui Documentation" trainingDate="2024-03-09" trainingPrice="389.99" trainingDuration="7" />
-</entity-facade-xml>
